@@ -1,0 +1,11 @@
+1	laptop	tech	apple	123.123	50
+2	headphones	tech	sony	100	200
+3	chocolate	food	hersheys	5	200
+4	tshirt	clothing	nike	20	150
+6	burger	food	mcdonalds	3	666
+7	jeans	clothing	levis	50	120
+8	tablet	tech	lenovo	300	70
+9	pizza	food	dominos	10	250
+10	sneakers	clothing	adidas	80	90
+23	rishik	food	bansal	10000	1
+44	Jeans	clothing	Levis	45000	30

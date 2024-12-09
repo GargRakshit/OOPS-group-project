@@ -1,0 +1,4 @@
+4	T-shirt	M
+7	Jeans	L
+10	Sneakers	9
+44	cotton	44
